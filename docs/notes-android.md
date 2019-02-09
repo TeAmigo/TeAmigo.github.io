@@ -1,0 +1,1 @@
+/home/rick/share/notes/notes-android.md

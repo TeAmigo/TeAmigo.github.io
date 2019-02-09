@@ -1,0 +1,10 @@
+* TODO - <2019-02-09 Sat 11:51> - Check this in the TeAmigo github.io project.
+Trying to eliminate content from the index in the generated markdown.
+
+* CHECK - <2019-02-09 Sat 12:09> - Just installed Org-page a static site generator based on org mode. This may work for my Github.io page.
+Don't think so. Just looked at it's md file, only uses 1 level of headings.
+*** second level
+***** third
+******* GOAL - <2019-02-09 Sat 12:11> - fourth - as deep as I usually go - 
+
+

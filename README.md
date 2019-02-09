@@ -10,6 +10,9 @@ Might as well have some fun
 ---
 ॐ नमः शिवाय is digestion. When I write something and it ends in that, I'm digesting it. You are presented with the same opportunity.
 
+---
+[Index](docs/index.html "docs")
+
      
 
 

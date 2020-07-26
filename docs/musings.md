@@ -1,5 +1,7 @@
 ### General musings of the strange and unusual
 
+
+
 thinking is illusion  
 being any particular thing is illusion  
 the whole super-intelligent overlay of conscious-mind is illusion  

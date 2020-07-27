@@ -4,7 +4,7 @@
 
 ### CHECK  - <2020-07-26 Sun 11:28> The series of commands repeated as work is done: 
 
-1. git add  
+1. git add --all **this adds all changes, deletions and insertions.** 
 2. git status  
 3. git commit -m "initial commit"  
 4. git push  
